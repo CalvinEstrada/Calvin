@@ -9,7 +9,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url("/img/sky.jpg");
+    background-image: url("../img/sky.jpg");
     font-family: "Aquire";
   }
   
