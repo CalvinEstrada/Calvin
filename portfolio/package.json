@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "node": "^16.1.0",
-    "vanilla-tilt": "^1.7.0"
-  }
-}
