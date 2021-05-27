@@ -109,7 +109,6 @@ body::after {
   margin: 1%;
   float: right;
   flex-wrap: wrap;
-  z-index: 1;
 }
 .contain .card {
   display: table;
